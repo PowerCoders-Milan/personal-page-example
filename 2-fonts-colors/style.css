@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700&family=Karla:wght@400;600&display=swap');
+
+body {
+  background-color: lightblue;
+  font-family: Karla, Helvetica, sans-serif;
+  font-size: 16px;
+  color: black;
+}
+
+h1, h2, h3 {
+  font-family: Outfit, Helvetica, sans-serif;
+}
+
+h2 {
+  color: rgb(62, 62, 62)
+}
+
+a {
+  text-decoration: none;
+  font-weight: 600;
+  color: rgb(68, 68, 146);
+}
+
+a:hover {
+  color: black;
+}
